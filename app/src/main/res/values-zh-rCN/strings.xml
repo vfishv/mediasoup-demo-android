@@ -5,7 +5,7 @@
     <string name="setting">设置</string>
     <string name="title_activity_room">房间</string>
     <string name="title_activity_settings">设置</string>
-    <string name="invite_link_copied">Room link copied to the clipboard</string>
+    <string name="invite_link_copied">房间链接已复制到粘贴板</string>
     <string name="audio_producer_copied">Copy audio producer id to clipboard</string>
     <string name="audio_consumer_copied">Copy audio consumer id to clipboard</string>
     <string name="video_producer_copied">Copy video producer id to clipboard</string>
