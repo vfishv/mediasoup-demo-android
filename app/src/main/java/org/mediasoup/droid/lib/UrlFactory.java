@@ -4,7 +4,7 @@ import java.util.Locale;
 
 public class UrlFactory {
 
-  private static final String HOSTNAME = "v3demo.mediasoup.org";
+  private static final String HOSTNAME = "10.0.192.88";
   //  private static final String HOSTNAME = "192.168.1.103";
   private static final int PORT = 4443;
 
