@@ -1,0 +1,12 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="camera_entries">
+        <item>前置</item>
+        <item>后置</item>
+    </string-array>
+
+    <string-array name="camera_values">
+        <item>front</item>
+        <item>rear</item>
+    </string-array>
+</resources>
