@@ -19,13 +19,26 @@
     <PreferenceCategory app:title="@string/room_header">
 
         <EditTextPreference
+            app:defaultValue="test"
             app:key="roomId"
             app:title="@string/room_id"
             app:useSimpleSummaryProvider="true" />
 
+        <ListPreference
+            app:key="resolution"
+            app:title="Resolution"
+            app:useSimpleSummaryProvider="true" />
+
+        <EditTextPreference
+            app:defaultValue="5"
+            app:dialogLayout="@layout/preference_edit_text"
+            app:key="fps"
+            app:title="fps"
+            app:useSimpleSummaryProvider="true" />
+
         <Preference
             app:key="button"
-            app:title="进入" />
+            app:title="Enter" />
 
     </PreferenceCategory>
 
